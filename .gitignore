@@ -12,3 +12,7 @@ typing_test
 # Temporary files
 *~
 *.swp
+
+01_Rust_Intro/
+02_File_System/
+03_Process_IPC/
